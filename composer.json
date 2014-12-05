@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@github.com:davidbarratt/drupal-core.git"
+      "url": "git@github.com:greg-1-anderson/drupal-core.git"
     }
   ],
   "config": {
