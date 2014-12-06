@@ -14,6 +14,8 @@ use Symfony\Component\HttpKernel\Exception\HttpExceptionInterface;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
+// Add a nice comment just for testing.
+
 $autoloader = require_once __DIR__ . '/vendor/autoload.php';
 
 try {
